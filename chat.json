@@ -15,5 +15,14 @@
         "component_file_name": "simple_cta_component_1725534634",
         "div_id": "",
         "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll add a button that says hello.",
+        "message_id": "guest05092024111114",
+        "timestamp": "05092024111118",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
     }
 ]
