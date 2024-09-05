@@ -8,6 +8,15 @@
         "div_id": ""
     },
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a button which says 'Hello'\", \"checked\": true}, {\"feature\": \"Create a hover effect for the button\", \"checked\": false}, {\"feature\": \"Include an animation when the button is clicked\", \"checked\": false}, {\"feature\": \"Add a tooltip that explains the button function\", \"checked\": true}, {\"feature\": \"Customize the button color and style\", \"checked\": false}], \"input_token_count\": 243, \"output_token_count\": 97, \"time_taken\": \"0:00:01.218441\"}",
+        "message_id": "guest05092024111114",
+        "timestamp": "05092024111125",
+        "component_file_name": "simple_cta_component_1725534634",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 162 (char 324)\", \"time_taken\": \"0:00:01.142063\"}",
         "message_id": "guest05092024111114",
